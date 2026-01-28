@@ -2,8 +2,6 @@
 
 A simple command-line slot machine game built using JavaScript and Node.js.
 
----
-
 ## Features
 
 - Deposit money system  
@@ -13,14 +11,10 @@ A simple command-line slot machine game built using JavaScript and Node.js.
 - Winnings calculation based on symbols  
 - Play again option  
 
----
-
 ## Technologies Used
 
 - JavaScript (Node.js)
 - prompt-sync (for terminal input)
-
----
 
 ## How to run the project
 
