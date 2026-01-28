@@ -1,4 +1,4 @@
-# Slot Machine CLI Game (JavaScript)
+# Slot Machine CLI Game 
 
 A simple command-line slot machine game built using JavaScript and Node.js.
 
@@ -22,6 +22,6 @@ This project was created to practice JavaScript fundamentals such as functions, 
 - JavaScript (Node.js)
 - prompt-sync (for terminal input)
 
----
+
 
 
