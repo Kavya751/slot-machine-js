@@ -20,6 +20,27 @@ A simple command-line slot machine game built using JavaScript and Node.js.
 - JavaScript (Node.js)
 - prompt-sync (for terminal input)
 
+---
+
+## How to run the project
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Kavya751/slot-machine-js.git
+cd slot-machine-js
+```
+### 2. Install dependencies
+```bash
+npm install
+```
+
+### 3. Run the game
+```bash
+node index.js
+```
+
+
+
 
 
 
